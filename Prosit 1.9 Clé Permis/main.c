@@ -317,6 +317,6 @@ void bubbleSort(int *tableau_infraction, int taille_tableau)
 
     }
 
-    printf("\n\n");
+    printf("\n\n")
 }
 
